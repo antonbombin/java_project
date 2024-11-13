@@ -1,0 +1,10 @@
+.git
+.idea
+GeekBrains.iml
+homework1
+lesson1.java
+lesson1_task
+lesson2
+out
+program.java
+text.txt

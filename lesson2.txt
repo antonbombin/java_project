@@ -2,9 +2,13 @@
 .idea
 GeekBrains.iml
 homework1
+homework2
 lesson1.java
 lesson1_task
 lesson2
+lesson2.txt
+lesson3
+log.txt
 out
 program.java
 text.txt
